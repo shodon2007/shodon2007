@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shodon2007&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
